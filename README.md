@@ -30,7 +30,7 @@
 ## 怎么装
 
 
-把本仓库里的 `zheshifu-skill` 文件夹直接丢给任意 AI Agent，说「帮我把这个 skill 装到 skills 目录里」，它会自己搞定。WorkBuddy / Trae / 豆包 / Codex 均已验证可用。
+**先下载**本仓库（点右上角 `Code → Download ZIP`，或 `git clone`），解压后把里面的 `zheshifu-skill` 文件夹整个丢给任意 AI Agent，说「帮我把这个 skill 装到 skills 目录里」，它会自己搞定。WorkBuddy / Trae / 豆包 / Codex 均已验证可用。
 
 
 ---
